@@ -1,6 +1,8 @@
 # Linear-Regression-from-Scratch
 Implementing Linear Regression from Scratch using only numpy and pandas. Comparing the performance of the model with library-implemented Linear regression.
 
+**Language used:** Python
+
 **Libraries used:** numpy, pandas, sklearn, matplotlib
 
 **Dataset Visualization:**
